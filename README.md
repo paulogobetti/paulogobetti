@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <img height="300em" width="48%" src="https://github-readme-stats.vercel.app/api?username=paulogobetti&theme=blue-green">
-  <img height="300em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulogobetti&theme=blue-green">
+    <img src="https://github-readme-stats.vercel.app/api?username=paulogobetti&show_icons=true&include_all_commits=true&line_height=20&hide_border=true&theme=blue-green" width="49%" height="150">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulogobetti&layout=compact&theme=blue-green&hide_border=true" width="49%" height="150">
 </div>
-  
+
 <hr>
 
 <div style="display: flex;">
