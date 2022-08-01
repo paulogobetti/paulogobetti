@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **paulogobetti/paulogobetti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,9 +13,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=paulogobetti&theme=blue-green)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=paulogobetti&theme=blue-green)
+<div align="center">
+  <a href="https://github.com/paulogobetti">
+  <img height="300em" width="48%" src="https://github-readme-stats.vercel.app/api?username=paulogobetti&theme=blue-green">
+  <img height="300em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulogobetti&theme=blue-green">
+</div>
+  
+<hr>
 
 <div style="display: flex;">
   <h6>Main Technologies:</h6>
