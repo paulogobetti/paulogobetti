@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <a href="https://github.com/paulogobetti">
   <img height="300em" width="48%" src="https://github-readme-stats.vercel.app/api?username=paulogobetti&theme=blue-green">
   <img height="300em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulogobetti&theme=blue-green">
 </div>
@@ -27,7 +26,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/static/v1?message=HTML&logo=html5&labelColor=000&color=fd0&logoColor=white&label=%20" height="18">
   <img src="https://img.shields.io/static/v1?message=CSS&logo=css3&labelColor=000&color=fd0&logoColor=white&label=%20" height="18">
   <img src="https://img.shields.io/static/v1?message=Bootstrap&logo=bootstrap&labelColor=000&color=fd0&logoColor=white&label=%20" height="18">
-  <img src="https://img.shields.io/static/v1?message=JavaScript&logo=javascript&labelColor=000&color=fd0&logoColor=white&label=%20" height="18">
   <img src="https://img.shields.io/static/v1?message=JavaScript&logo=javascript&labelColor=000&color=fd0&logoColor=white&label=%20" height="18">
   <img src="https://img.shields.io/static/v1?message=Apache&logo=apache&labelColor=000&color=fd0&logoColor=white&label=%20" height="18">
   <img src="https://img.shields.io/static/v1?message=SQL&logo=mysql&labelColor=000&color=fd0&logoColor=white&label=%20" height="18">
