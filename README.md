@@ -45,6 +45,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/static/v1?message=Blender&logo=blender&labelColor=000&color=fd0&logoColor=white&label=%20" height="18">
   <img src="https://img.shields.io/static/v1?message=Google Ads&logo=googleads&labelColor=000&color=fd0&logoColor=white&label=%20" height="18">
   <img src="https://img.shields.io/static/v1?message=Google Tag Manager&logo=googletagmanager&labelColor=000&color=fd0&logoColor=white&label=%20" height="18">
+  <img src="https://img.shields.io/static/v1?message=Google%20Analytics&logo=googleanalytics&labelColor=000&color=fd0&logoColor=white&label=%20" height="18">
 
   <h6>Learning:</h6>
   <img src="https://img.shields.io/static/v1?message=Unity&logo=unity&labelColor=000&color=fd0&logoColor=white&label=%20" height="18">
